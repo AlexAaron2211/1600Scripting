@@ -1,0 +1,8 @@
+Variables are a place in your code for storing data, or values.
+Data types are used to define the information that can be stored in a variable, and how many operations can be performed on it.
+for example, we can use a Integer value by using Int myage;
+you can either assign the value or assign it later in your code, like this
+Int myage;
+myage = 19;
+some common types of variables are:
+Int, Float, Double, Char, Bools, and Strings, all can be used for different types of characters and numbers.
