@@ -1,0 +1,37 @@
+Logical Operators are used to join multiple characters and return a true or false statement
+some common operators are
+&& the And operator
+|| the Or operator
+!  the Not operator
+
+theres a couple of ways "and" operators work, such as
+false false false
+false true false
+true false false
+true true true
+
+these operators can be used to make the user use multiple inputs or check multiple boxes to enter a game or any number
+of things.
+you can use multiple conditions such as 
+
+Int money = 120;
+Int Age = 18;
+If(age > 18 && <80 && money > 120)
+  Console.writeline("You have money and youth")
+
+the Or operator || returns true if any of the operators are true.
+example:
+
+Int Age = 18;
+Int Rubies = 100;
+If (age > 18 || Rubies > 100) {
+   console.writeline("you got the game")
+}
+
+The Not operator makes true statements false, and false statements true.
+example:
+
+Int Money = 20;
+if(!(money >= 20)) {
+   Console.write("you have enough money")
+}
