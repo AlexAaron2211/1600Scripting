@@ -19,6 +19,18 @@ If (x<y)
   }
 }
 
+
+static void main(string args)
+{
+   Int x = 6;
+   Int y = 8;
+
+If (x == y)
+{
+	Console.writeline("X is Equal to Y")
+  }
+}
+
 if the statements is true than any thing within that if statement will activate.
 most If statements use operators like < , > , = , + , - .
 These operators make it much easier to determine if a condition is met or not.
