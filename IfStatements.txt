@@ -1,0 +1,28 @@
+If Statements are conditional statements that executes code when one or another condition is fullfilled or "True"
+Most 'If statements' are written like this
+
+If ()
+{
+	//activate code when condition is met
+}
+
+an example would be
+
+static void main(string args)
+{
+  Int x = 3;
+  Int y = 7;
+
+If (x<y)
+{
+	Console.Writeline("X is smaller than Y")
+  }
+}
+
+if the statements is true than any thing within that if statement will activate.
+most If statements use operators like < , > , = , + , - .
+These operators make it much easier to determine if a condition is met or not.
+
+Else is a tool used with If statements a lot and is used to constantly trigger one line of code until the if statement is
+completed or true. You can use as many if/else statements as you want!
+you can also use Else If to determine multiple answers to a question.
